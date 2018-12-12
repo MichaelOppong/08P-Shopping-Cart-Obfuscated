@@ -1,0 +1,40 @@
+.item{
+    display:flex;
+    justify-content:space-around;
+}
+.storeName{
+        font-family: 'Bubblegum Sans', cursive;
+        background:darkblue;
+        color:white;
+        padding:10px;
+        border-top:10px solid black;
+        border-left:10px solid black;
+        border-right:10px solid black;
+        text-align:center;
+        font-size:30px;
+}
+img{
+    width:100px;
+    height:100px;
+}
+.cartItem{
+    width:100px;
+    height:100px;
+}
+.inputs{
+ display:flex;
+ justify-content:space-around;
+ margin:50px;
+}
+.buttonDiv{
+    margin:50px;
+    text-align:center;
+}
+.heading{
+    background:darkblue;
+    color:white;
+    border:5px solid black;
+}
+.cart{
+    border:5px solid black;
+}
